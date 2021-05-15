@@ -3,7 +3,7 @@
 
 Foi desenvolvido um Backend para controle de clientes e de receitas de uma empresa de movimentações financeiras.
 
-O projeito foi desenvolvido em Java usando o Framework Spring versão 2.4.4 e o Oracle DataBase versão 19.3.
+O projeto foi desenvolvido em Java usando o Framework Spring versão 2.4.4 e o Oracle DataBase versão 19.3.
 Para os testes unitários, foi usado o JUnit. 
 
 ## Sumário  
