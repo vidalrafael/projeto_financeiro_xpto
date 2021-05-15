@@ -1,7 +1,6 @@
 
 # Projeto Financeiro Empresa XPTO
 
-Projeto para avaliação do processo seletivo
 Foi desenvolvido um Backend para controle de clientes e de receitas de uma empresa de movimentações financeiras.
 
 O projeito foi desenvolvido em Java usando o Framework Spring versão 2.4.4 e o Oracle DataBase versão 19.3.
